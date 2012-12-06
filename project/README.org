@@ -1,0 +1,9 @@
+#+TITLE: Configuration Control
+
+* Directory Structure
+-*plan:* All planning-related artifacts
+-*risk:* Continuous risk management artifacts
+-*metrics:* All product and process metrics
+-*process:* Any internal process documents (non-wiki)
+-*status:* Status meeting slides to accompany meeting minutes
+-*eosp_mosp:* EOSP and MOSP workflows

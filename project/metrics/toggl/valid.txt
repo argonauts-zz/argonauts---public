@@ -1,0 +1,92 @@
+MOSP, Academic
+Action Items, Overhead
+Client Call, Client Communication
+Weekly Report, Client Communication
+Preparation for Client Call, Client Communication
+Iteration 10 Planning, Overhead
+Iteration 9 Planning, Overhead
+Iteration 8 Planning, Overhead
+Iteration 7 Planning, Overhead
+Iteration 6 Planning, Overhead
+Iteration 5 Planning, Overhead
+Iteration 4 Planning, Overhead
+Iteration 3 Planning, Overhead
+Iteration 2 Planning, Overhead
+Iteration 1 Planning, Overhead
+Iteration 10 Reflection, Overhead
+Iteration 9 Reflection, Overhead
+Iteration 8 Reflection, Overhead
+Iteration 7 Reflection, Overhead
+Iteration 6 Reflection, Overhead
+Iteration 5 Reflection, Overhead
+Iteration 4 Reflection, Overhead
+Iteration 3 Reflection, Overhead
+Iteration 2 Reflection, Overhead
+Iteration 1 Reflection, Overhead
+Mentor Meeting, Overhead
+Status Meeting, Overhead
+Standup Meeting, Overhead
+Preparation for Status Meeting, Overhead
+Risk Management, Overhead
+Metrics and Measurement, Overhead
+Planning and Tracking, Overhead
+Tool Maintenance, Tooling & Infrastructure
+Kickoff Meeting, Overhead
+QAW/ADW Session, Requirements
+Update Operations Proposal, Overhead
+Update Master Design Plan, Overhead
+Goals-Roles-Responsibilities, Overhead
+Meeting with Felix, Overhead
+Workshop Planning Meeting, Overhead
+Workshop Logistics, Overhead
+Workshop Slides, Requirements
+Metrics Planning Meeting, Overhead
+Analyze Quality Attributes, Requirements
+Analyze Functional Requirements, Requirements
+Analyze Operational Descriptions, Requirements
+Analyze Constraints, Requirements
+Analyze/Revise Architectural Drivers, Requirements
+Rationale for 3-Protocol Selection, Requirements
+Create ADS, Requirements
+Revise ADS, Requirements
+Review ADS, Quality Assurance
+Initial Architecture Design, Architecture Design
+Defining Experiments, Experiments
+ACDM Intro, Overhead
+WP0 - Stage 4 Evaluation, Quality Assurance
+WP1 - Architecture Design Revision (Service Extensibility), Architecture Design
+WP2 - Architecture Design Revision (Scalability), Architecture Design
+WP3 - Revise remaining quality attributes, Requirements
+WP4 - Architecture Design Revision (Protocol Extensibility), Architecture Design
+WP4 - Architecture Design Revision (Protocol Research), Experiments
+WP5 - Architecture Design Evaluation Workshop (Stage 4 ACDM), Quality Assurance
+WP6 - API for Protocol Extensibility, Experiments
+WP7 - Security Design, Architecture Design
+WP8 - Architecture Design Document, Architecture Design
+WP9 - Create Design Proposal, Academic
+WP10 - Complete Operational Descriptions, Requirements
+WP11 - Quality assurance plan, Quality Assurance
+WP12 - Missing information in ADS, Technical Debt
+WP13 - Architecture Design Revision (Scalability), Architecture Design
+WP14 - Stage 5 Issue Analysis, Quality Assurance
+WP15 - Stage 4 Evaluation, Quality Assurance
+WP16 - Stage 5 Issue Analysis, Quality Assurance
+WP17 - QA07 /QA08 – Svc. Ext. Dynamic/Static, Architecture Design
+WP18 - Performance Design, Architecture Design
+WP19 - Availability Design, Architecture Design
+WP20 - Stage 4 Evaluation, Quality Assurance
+WP21 - Stage 5 Issue Analysis, Quality Assurance
+WP22 - Design for Usability/Simplicity, Architecture Design
+WP23 - Revise Protocol Extensibility, Architecture Design
+WP24 - Revise Availability Design, Architecture Design
+WP25 - Missing Information in ADD, Technical Debt
+WP26 - Move to higher fidelity design, Architecture Design
+WP27 - POA for Summer and Fall, Overhead
+WP28 - System Performance Modeling, Experiments
+WP29 - Revise Scalability Design, Architecture Design
+WP30 - Configuration management plan, Overhead
+WP31 - 360 Peer Reviews, Overhead
+WP32 - EOSP, Academic
+
+
+
